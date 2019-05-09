@@ -320,6 +320,12 @@ img {
     background-color: #1abc9c;
 }
 
+.tr {
+    width: 27px;
+    margin-right: 10px;
+    float: left;
+}
+
 .trash-bt-text {
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
