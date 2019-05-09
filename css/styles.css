@@ -87,10 +87,6 @@ img {
     background-size: cover;
 }
 
-.banner-div {
-    position: relative;
-}
-
 .banner-head-text {
     font-size: 60px;
     font-weight: 900;
@@ -121,12 +117,10 @@ img {
     width: 104px;
     height: 104px;
     position: absolute;
-    bottom: 0;
     background: #1abc9c;
     opacity: 0.5;
     border: none;
     cursor: pointer;
-    background-image: url('/img/left.png');
     background-position: center;
     background-repeat: no-repeat;
 }
