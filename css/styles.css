@@ -273,6 +273,7 @@ img {
     padding: 0 12px;
     border: 1px solid #ffffff;
     background-color: transparent;
+    cursor: pointer;
 }
 
 .cross-bt:hover {
@@ -289,6 +290,7 @@ img {
     padding: 0 13px;
     border: 1px solid #ffffff;
     background-color: transparent;
+    cursor: pointer;
 }
 
 .clock-bt:hover {
@@ -313,6 +315,7 @@ img {
     padding-bottom: 4px;
     border: 1px solid #ffffff;
     background-color: #323232;
+    cursor: pointer;
 }
 
 .trash-bt:hover {
